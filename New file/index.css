@@ -1,0 +1,103 @@
+
+body{
+   
+    margin:1% 1.5%;
+}
+h1{
+   
+    font-size: 300%;}
+
+    header{
+        background: #666666;
+        text-align: center;
+        padding: 15px;
+    }
+h1{
+    color: #ffffff;
+
+}
+
+
+
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: arial, "Time New Roman", serif;
+}
+
+h2{
+    color: #666666;
+    background: #00b7ea;
+}
+
+.half{
+    width: 45%;
+    display: inline-block;
+float: left;
+    margin-right: 2%;
+}
+
+summary{
+    font-style: normal;
+}
+footer{
+    clear: left;
+background-color: #666666;    
+}
+img{
+    width: 55px;
+    height: 35px;
+}
+header, footer{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100&1+0,0+100;Blue+to+Transparent */
+background: -moz-linear-gradient(top,  rgba(30,87,153,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#007db9e8',GradientType=0 ); /* IE6-9 */
+
+
+}
+
+nav a{
+    width: 22%;
+  display: inline-block;  
+  background-color: #ffffff;
+  margin-left: 20px;
+}
+
+.whole{
+    clear: both;
+    width: 93.5%
+}
+
+.container{
+    margin: 0 1.75%
+}
+
+.fa-twitter{
+    color: #00b7ea;
+    margin: 1px;
+    transition: all linear 250ms;
+}
+
+.fa-twitter:hover{
+    transform: scale(1.5);
+}
+.fa-facebook{
+    color: #0023ea;
+    margin: 3px;
+    transition: all linear 250ms;
+}
+
+.fa-facebook:hover{
+    transform: scale(1.5);
+}
+
+footer{
+    padding: 50px 25px;
+    color: #ffffff;
+}
+
+summary{
+    text-align: center;
+}

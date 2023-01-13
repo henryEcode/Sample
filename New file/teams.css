@@ -1,0 +1,66 @@
+h1{ text-transform: capitalize;
+    text-align: center;
+    color: aliceblue;
+}
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    margin: 5px 10px;
+}
+
+header{
+    background: #d7e9e5;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Photos/pexels-george-desipris-889545.jpg) center/cover ;
+    height: 140px;
+}
+h2{ text-transform: capitalize;
+    color: rgb(255, 30, 0);
+    text-shadow: 0 0 0.5 #d7e9e5;
+    
+}
+
+header a{
+    display: inline-block;
+    color: #fff;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.2));
+    width: 10%;
+    margin-left: 90px;
+    margin-top: 20px;
+   text-decoration: none;
+   padding: 10px ;
+   border: 1px solid rgba(255, 255, 255, 0.801);
+   border-radius: 10px;
+   text-align: center;
+   font-style: italic;
+}
+
+
+   
+
+   .rover:active, .rover:focus {
+    background-color: #d7e9e5;
+    color: rgb(216, 15, 15);
+
+   }
+
+section{
+   float: left; 
+   width: 40%;
+   
+}
+
+.left{
+    width: 30%;
+    background-color: rgba(128, 15, 0, 0.61);
+}
+.right{
+    width: 50%;
+}
+img{ display: inline-block;
+   margin: 10px 45px;
+    border: 2px solid black;
+
+}

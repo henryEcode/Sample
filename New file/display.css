@@ -1,0 +1,25 @@
+span{
+    height: 50px;
+    width: 75px;
+    background: #00ff00;
+    display: inline-block;
+    
+    /*display: Try block and inline block;*/
+    /*float*/
+}
+
+body{
+    display: table;
+}
+div{
+   
+    width: 30%;
+    background: #00ffff;
+    display: table-cell;
+   
+    
+    /* display:;*/
+    /*float*/
+
+}
+
